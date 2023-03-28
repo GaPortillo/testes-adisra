@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.AssemblyInfo.cs
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\bin\Debug\net7.0\Exercicio4-FabricaCarros.exe
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\bin\Debug\net7.0\Exercicio4-FabricaCarros.deps.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\bin\Debug\net7.0\Exercicio4-FabricaCarros.runtimeconfig.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\bin\Debug\net7.0\Exercicio4-FabricaCarros.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\bin\Debug\net7.0\Exercicio4-FabricaCarros.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\refint\Exercicio4-FabricaCarros.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\Exercicio4-FabricaCarros.genruntimeconfig.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio4-FabricaCarros\obj\Debug\net7.0\ref\Exercicio4-FabricaCarros.dll

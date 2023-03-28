@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\bin\Debug\net7.0\Exercicio3-RetornoCodigo.exe
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\bin\Debug\net7.0\Exercicio3-RetornoCodigo.deps.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\bin\Debug\net7.0\Exercicio3-RetornoCodigo.runtimeconfig.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\bin\Debug\net7.0\Exercicio3-RetornoCodigo.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\bin\Debug\net7.0\Exercicio3-RetornoCodigo.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.AssemblyInfo.cs
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\refint\Exercicio3-RetornoCodigo.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\Exercicio3-RetornoCodigo.genruntimeconfig.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio3-RetornoCodigo\obj\Debug\net7.0\ref\Exercicio3-RetornoCodigo.dll

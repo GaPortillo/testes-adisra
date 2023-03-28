@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\bin\Debug\net7.0\Exercicio2-Matriz.exe
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\bin\Debug\net7.0\Exercicio2-Matriz.deps.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\bin\Debug\net7.0\Exercicio2-Matriz.runtimeconfig.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\bin\Debug\net7.0\Exercicio2-Matriz.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\bin\Debug\net7.0\Exercicio2-Matriz.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.AssemblyInfo.cs
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\refint\Exercicio2-Matriz.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\Exercicio2-Matriz.genruntimeconfig.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio2-Matriz\obj\Debug\net7.0\ref\Exercicio2-Matriz.dll

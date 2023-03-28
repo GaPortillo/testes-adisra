@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\bin\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.exe
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\bin\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.deps.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\bin\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.runtimeconfig.json
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\bin\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\bin\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.AssemblyInfo.cs
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\refint\Exercicio1-Sequencia-Fibonacci.dll
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.pdb
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\Exercicio1-Sequencia-Fibonacci.genruntimeconfig.cache
+C:\Users\gabri\Desktop\EstudosProgramacao\repositorioC#\Teste-Adisra\src\Exercicio1-Sequencia-Fibonacci\obj\Debug\net7.0\ref\Exercicio1-Sequencia-Fibonacci.dll
